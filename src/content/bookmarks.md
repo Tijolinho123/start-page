@@ -18,7 +18,7 @@ links:
     src: drive.svg
     alt: drive-icon
   - href: https://myanimelist.net/
-    title: Myanimelist
+    title: Empty
     src: myanimelist.svg
     alt: myanimelist-icon
   - href: https://discord.com/app
@@ -26,7 +26,7 @@ links:
     src: discord.svg
     alt: discord-icon
   - href: https://www.twitch.tv/
-    title: Twitch
+    title: Empty
     src: twitch.svg
     alt: twitch-icon
   - href: https://web.whatsapp.com/
@@ -34,11 +34,11 @@ links:
     src: whatsapp.svg
     alt: whatsapp-icon
   - href: https://www.reddit.com/
-    title: Reddit
+    title: Empty
     src: reddit.svg
     alt: reddit-icon
   - href: https://x.com/home
-    title: X
+    title: Empty
     src: x.svg
     alt: x-icon
   - href: https://chat.deepseek.com/
@@ -50,11 +50,11 @@ links:
     src: github.svg
     alt: github-icon
   - href: https://mangadex.org/
-    title: MangaDex
+    title: Empty
     src: mangadex.svg
     alt: mangadex-icon
   - href: https://aniwave.lv/
-    title: AniWave
+    title: Media
     src: aniwave.svg
     alt: aniwave-icon
   - href: https://www.deepl.com/en/translator
@@ -74,11 +74,11 @@ links:
     src: linkedin.svg
     alt: linkedin-icon
   - href: https://www.instagram.com/
-    title: Instagram
+    title: Empty
     src: instagram.svg
     alt: instagram-icon
   - href: https://tr.pinterest.com/
-    title: Pinterest
+    title: Empty
     src: pinterest.svg
     alt: pinterest-icon
 ---
