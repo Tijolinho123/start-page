@@ -29,4 +29,8 @@ links:
     title: ZLibrary
     src: zlibrary.svg
     alt: zlibrary-icon
+  - href: https://my.kodular.io/projects
+    title: kodular
+    src: kodular.svg
+    alt: kodular-icon
 ---
